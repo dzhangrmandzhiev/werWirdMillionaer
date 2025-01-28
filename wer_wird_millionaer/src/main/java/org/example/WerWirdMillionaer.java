@@ -10,17 +10,17 @@ public class WerWirdMillionaer {
             {"Frage 2: In welchem Jahr endete der Zweite Weltkrieg?", "1) 1943", "2) 1944", "3) 1945", "4) 1946", "3"},
             {"Frage 3: Was ist die Quadratwurzel von 256?", "1) 14", "2) 15", "3) 16", "4) 17", "3"},
             {"Frage 4: Wer entdeckte die Relativitätstheorie?", "1) Isaac Newton", "2) Albert Einstein", "3) Nikola Tesla", "4) Max Planck", "2"},
-            {"Frage 5: Wie heißt das kleinste Land der Welt?", "1) Monaco", "2) San Marino", "3) Liechtenstein", "4) Vatikanstadt", "4"},
+            {"Frage 5: Wie heisst das kleinste Land der Welt?", "1) Monaco", "2) San Marino", "3) Liechtenstein", "4) Vatikanstadt", "4"},
             {"Frage 6: Welches Element hat die Ordnungszahl 79 im Periodensystem?", "1) Silber", "2) Gold", "3) Blei", "4) Platin", "2"},
             {"Frage 7: Was ist die Hauptsprache in Brasilien?", "1) Spanisch", "2) Portugiesisch", "3) Französisch", "4) Englisch", "2"},
             {"Frage 8: Wer war der erste Mensch im All?", "1) Yuri Gagarin", "2) Neil Armstrong", "3) Alexei Leonov", "4) Alan Shepard", "1"},
-            {"Frage 9: Was ist die größte Wüste der Welt?", "1) Sahara", "2) Antarktis", "3) Gobi", "4) Kalahari", "2"},
+            {"Frage 9: Was ist die grösste Wüste der Welt?", "1) Sahara", "2) Antarktis", "3) Gobi", "4) Kalahari", "2"},
             {"Frage 10: In welchem Jahr landeten die Menschen erstmals auf dem Mond?", "1) 1967", "2) 1968", "3) 1969", "4) 1970", "3"},
             {"Frage 11: Wie viele Knochen hat ein erwachsener Mensch?", "1) 202", "2) 204", "3) 206", "4) 208", "3"},
             {"Frage 12: Was ist der längste Fluss Europas?", "1) Donau", "2) Dnepr", "3) Wolga", "4) Rhein", "3"},
             {"Frage 13: Welches Land hat die meisten Nachbarländer in Europa?", "1) Deutschland", "2) Russland", "3) Frankreich", "4) Österreich", "1"},
             {"Frage 14: Welcher Physiker legte den Grundstein für die Quantenmechanik?", "1) Niels Bohr", "2) Erwin Schrödinger", "3) Max Planck", "4) Werner Heisenberg", "3"},
-            {"Frage 15: Welches ist das kälteste bekannte Objekt im Universum?", "1) Supernova", "2) Boomerang-Nebel", "3) Kuiper-Gürtel", "4) Weißer Zwergstern", "2"}
+            {"Frage 15: Welches ist das kälteste bekannte Objekt im Universum?", "1) Supernova", "2) Boomerang-Nebel", "3) Kuiper-Gürtel", "4) Weisser Zwergstern", "2"}
     };
     static final int[] GEWINNSTUFEN = {50, 100, 200, 300, 500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 125000, 500000, 1000000};
     static final int ERSTE_SICHERHEITSSTUFE = 1000;
@@ -236,7 +236,7 @@ public class WerWirdMillionaer {
                 System.out.println("Hinweis: Diese Anzahl liegt knapp über 200.");
                 break;
             case 11:
-                System.out.println("Hinweis: Dieser Fluss fließt durch Russland.");
+                System.out.println("Hinweis: Dieser Fluss fliesst durch Russland.");
                 break;
             case 12:
                 System.out.println("Hinweis: Dieses Land grenzt an neun andere europäische Länder.");
