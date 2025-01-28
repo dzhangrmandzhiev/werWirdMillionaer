@@ -17,12 +17,6 @@ Das Programm ist in die Klasse `WerWirdMillionaer` organisiert. Die Hauptlogik d
 - **aktuelleFrage**: Ein Zähler, der die aktuelle Frage verfolgt.
 - **aktuellerGewinn**: Ein Zähler für den aktuellen Gewinn des Spielers.
 
-### Hauptmethode
-
-```java
-public static void main(String[] args)
-Die main-Methode ist der Einstiegspunkt des Programms. Hier wird eine Schleife gestartet, die das Spiel steuert, bis der Spieler entscheidet, das Spiel zu beenden.
-
 # Spielablauf
 
 ## Hauptmethode
